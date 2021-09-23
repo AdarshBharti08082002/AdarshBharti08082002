@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshbharti08082002&label=Profile%20views&color=0e75b6&style=flat" alt="adarshbharti08082002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshbharti08082002" alt="adarshbharti08082002" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbS1GQlhzTEw4bTAtbGlOTXBuV1pyV0FFMk9NZ3xBQ3Jtc0trdkt5NmZLVlZBbUt6elVaM3VoRlRZa3lZRkpMMktRODhsTnNHc0NKdm1EU2kwOHNNaGdLMEQ4VDZlajVGMU1EWTNDTkYyTFhLWmZ2a1lrLXE5Z0tsaDROcEtPRmZUQURlbzFKZ1VUWlU2ZGpIeUdhcw&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2646423%2Fscreenshots%2F5507196%2Fcomputer.gif">
+
 - 🌱 I’m currently learning **DSA in C and Python**
 
 - 📝 I regularly write articles on [https://adarshbharti08.blogspot.com/](https://adarshbharti08.blogspot.com/)
